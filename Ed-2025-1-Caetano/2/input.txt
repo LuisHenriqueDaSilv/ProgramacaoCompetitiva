@@ -1,0 +1,6 @@
+camisa verde 1
+calca azul 3
+sobretudo preto 10
+cueca branca 1
+cueca azul 2
+end
